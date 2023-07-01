@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   zoomAndPan="magnify"
+   preserveAspectRatio="xMidYMid meet"
+   version="1.0"
+   viewBox="150.87 163.57 73.4 48.24"
+   id="svg323"
+   sodipodi:docname="11-withoutText.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview325"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="8.5406302"
+     inkscape:cx="18.909612"
+     inkscape:cy="24.12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1358"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg323" />
+  <defs
+     id="defs215">
+    <g
+       id="g195" />
+    <clipPath
+       id="065b513476">
+      <path
+         d="M 175.433594 163.574219 L 195.394531 163.574219 L 195.394531 183.535156 L 175.433594 183.535156 Z M 175.433594 163.574219 "
+         clip-rule="nonzero"
+         id="path197" />
+    </clipPath>
+    <clipPath
+       id="52b16e3056">
+      <path
+         d="M 185.414062 163.574219 C 179.902344 163.574219 175.433594 168.042969 175.433594 173.554688 C 175.433594 179.066406 179.902344 183.535156 185.414062 183.535156 C 190.925781 183.535156 195.394531 179.066406 195.394531 173.554688 C 195.394531 168.042969 190.925781 163.574219 185.414062 163.574219 "
+         clip-rule="nonzero"
+         id="path200" />
+    </clipPath>
+    <clipPath
+       id="5d07c70ed9">
+      <path
+         d="M 195.394531 163.574219 L 202.878906 163.574219 L 202.878906 183.535156 L 195.394531 183.535156 Z M 195.394531 163.574219 "
+         clip-rule="nonzero"
+         id="path203" />
+    </clipPath>
+    <clipPath
+       id="76f9b27ed1">
+      <path
+         d="M 199.136719 163.574219 C 197.070312 163.574219 195.394531 168.042969 195.394531 173.554688 C 195.394531 179.066406 197.070312 183.535156 199.136719 183.535156 C 201.203125 183.535156 202.878906 179.066406 202.878906 173.554688 C 202.878906 168.042969 201.203125 163.574219 199.136719 163.574219 "
+         clip-rule="nonzero"
+         id="path206" />
+    </clipPath>
+    <clipPath
+       id="272af418af">
+      <path
+         d="M 176.113281 183.535156 L 195.519531 183.535156 L 195.519531 193.550781 L 176.113281 193.550781 Z M 176.113281 183.535156 "
+         clip-rule="nonzero"
+         id="path209" />
+    </clipPath>
+    <clipPath
+       id="645460f1d7">
+      <path
+         d="M 185.753906 183.535156 C 180.429688 183.535156 176.113281 185.777344 176.113281 188.542969 C 176.113281 191.308594 180.429688 193.550781 185.753906 193.550781 C 191.078125 193.550781 195.394531 191.308594 195.394531 188.542969 C 195.394531 185.777344 191.078125 183.535156 185.753906 183.535156 "
+         clip-rule="nonzero"
+         id="path212" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#065b513476)"
+     id="g309">
+    <g
+       clip-path="url(#52b16e3056)"
+       id="g307">
+      <path
+         fill="#1a1a1a"
+         d="M 175.433594 163.574219 L 195.394531 163.574219 L 195.394531 183.535156 L 175.433594 183.535156 Z M 175.433594 163.574219 "
+         fill-opacity="1"
+         fill-rule="nonzero"
+         id="path305" />
+    </g>
+  </g>
+  <g
+     clip-path="url(#5d07c70ed9)"
+     id="g315">
+    <g
+       clip-path="url(#76f9b27ed1)"
+       id="g313">
+      <path
+         fill="#1a1a1a"
+         d="M 195.394531 163.574219 L 202.878906 163.574219 L 202.878906 183.535156 L 195.394531 183.535156 Z M 195.394531 163.574219 "
+         fill-opacity="1"
+         fill-rule="nonzero"
+         id="path311" />
+    </g>
+  </g>
+  <g
+     clip-path="url(#272af418af)"
+     id="g321">
+    <g
+       clip-path="url(#645460f1d7)"
+       id="g319">
+      <path
+         fill="#1a1a1a"
+         d="m 176.11328,183.53516 h 19.25 v 10.01562 h -19.25 z m 0,0"
+         fill-opacity="1"
+         fill-rule="nonzero"
+         id="path317"
+         inkscape:label="path317"
+         style="image-rendering:auto" />
+    </g>
+  </g>
+</svg>
